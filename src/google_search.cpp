@@ -1,3 +1,11 @@
+/*!
+ * \file google_search.cpp
+ * \author José Eduardo Bezerra
+ * \date February, 28th
+ */
+
+
+
 #include <iostream>
 #include <iterator>
 
