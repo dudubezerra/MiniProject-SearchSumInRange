@@ -41,6 +41,6 @@ int main(void)
         std::cout << ">>> Found pair at indexes (" << res.first << ", " << res.second << ")\n";
         std::cout << "    Their values are, respectively, " << A[res.first] << ", " << A[res.second] << std::endl;
     }
-
+ 
     return 0;
 }
