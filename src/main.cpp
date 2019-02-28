@@ -1,5 +1,11 @@
-#include <iostream> // cout, endl
-#include <iterator> // std::begin(), std::end()
+/*!
+ * \file main.cpp
+ * \authors José Eduardo Bezerra and Selan Rodrigues
+ * \date February, 28th
+ */
+
+#include <iostream> 
+#include <iterator> 
 
 #include "../include/google_search.h"
 
